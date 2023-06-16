@@ -20,6 +20,10 @@
 <a href="https://instagram.com/sudo_chmod_711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudo_chmod_711" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chamodhhenderson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chamodhhenderson" height="30" width="40" /></a>
 </p>
+<hr>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudo-chmod-711&show_icons=true&locale=en" alt="sudo-chmod-711" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-chmod-711&" alt="sudo-chmod-711" /></p>
 
 <hr>
 <img align="center" alt="Binary" width="1200" height="200" src="https://thumbs.gfycat.com/DisloyalWellgroomedDuck-max-1mb.gif">
