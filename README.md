@@ -3,7 +3,7 @@
 <hr>
 <img align="center" alt="Binary" width="1200" height="200" src="https://thumbs.gfycat.com/DisloyalWellgroomedDuck-max-1mb.gif">
 <hr>
-<img align="right" alt="Coding" width="500" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding" width="550" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-chmod-711&label=Profile%20views&color=0e75b6&style=flat" alt="sudo-chmod-711" /> </p>
 
