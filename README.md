@@ -2,15 +2,15 @@
 <h3 align="center">Computer Science Undergraduate @ UCSC</h3>
 
 <hr>
-<img align="right" alt="Coding" width="500" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding" width="600" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-chmod-711&label=Profile%20views&color=0e75b6&style=flat" alt="sudo-chmod-711" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sudo_chmod_711" target="blank"><img src="https://img.shields.io/twitter/follow/sudo_chmod_711?logo=twitter&style=for-the-badge" alt="sudo_chmod_711" /></a> </p>
 
-- 🌟 I’m currently learning **Front-end development**
+- 🌟 I’m currently learning <br> **Front-end development**
 
-- ✉️ How to reach me **chamodhhenderson@gmail.com**
+- ✉️ How to reach me <br> **chamodhhenderson@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
