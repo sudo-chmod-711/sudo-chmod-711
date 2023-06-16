@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/sudo_chmod_711" target="blank"><img src="https://img.shields.io/twitter/follow/sudo_chmod_711?logo=twitter&style=for-the-badge" alt="sudo_chmod_711" /></a> </p>
 
-- 🌟 I’m currently learning **Front-end development**
+- 🌟 I’m currently learning <br> **Front-end development**
 
-- ✉️ How to reach me **chamodhhenderson@gmail.com**
+- ✉️ How to reach me <br> **chamodhhenderson@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
