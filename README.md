@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Undergraduate @ UCSC</h3>
 
 <hr>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding" width="500" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-chmod-711&label=Profile%20views&color=0e75b6&style=flat" alt="sudo-chmod-711" /> </p>
 
@@ -12,9 +12,6 @@
 
 - ✉️ How to reach me **chamodhhenderson@gmail.com**
 
-<hr>
-<img align="center" alt="Binary" width="1200" height="200" src="https://thumbs.gfycat.com/DisloyalWellgroomedDuck-max-1mb.gif">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sudo_chmod_711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudo_chmod_711" height="30" width="40" /></a>
@@ -23,6 +20,9 @@
 <a href="https://instagram.com/sudo_chmod_711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudo_chmod_711" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chamodhhenderson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chamodhhenderson" height="30" width="40" /></a>
 </p>
+
+<hr>
+<img align="center" alt="Binary" width="1200" height="200" src="https://thumbs.gfycat.com/DisloyalWellgroomedDuck-max-1mb.gif">
 
 <hr>
 
