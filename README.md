@@ -1,8 +1,7 @@
-<hr>
-<img align="center" alt="Binary" width="1200" height="200" src="https://thumbs.gfycat.com/DisloyalWellgroomedDuck-max-1mb.gif">
-<hr>
 <h1 align="center">Hi 👋,&nbsp;&nbsp;I'm Chamodh Henderson</h1>
 <h3 align="center">Computer Science Undergraduate @ UCSC</h3>
+<hr>
+<img align="center" alt="Binary" width="1200" height="200" src="https://thumbs.gfycat.com/DisloyalWellgroomedDuck-max-1mb.gif">
 <hr>
 <img align="right" alt="Coding" width="500" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
