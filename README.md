@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋,&nbsp;&nbsp;I'm Chamodh Henderson</h1>
-<h3 align="center">Computer Science Undergraduate @ UCSC</h3>
+<img align="center" alt="Binary" width="1200" height="200" src="https://thumbs.gfycat.com/DisloyalWellgroomedDuck-max-1mb.gif">
+<h1 align="center">🙏&nbsp✨&nbsp&nbspආයුබෝවන්&nbsp&nbsp✨&nbsp🙏</h1>
+<h2 align="center">I'm Chamodh Henderson</h2>
+<h3 align="center">Computer Science Undergraduate @ University of Colombo School of Computing</h3>
 <hr>
 <img align="right" alt="Coding" width="570" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-chmod-711&label=Profile%20views&color=0e75b6&style=flat" alt="sudo-chmod-711" /> </p>
@@ -40,8 +42,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
-<hr>
-<img align="center" alt="Binary" width="1200" height="200" src="https://thumbs.gfycat.com/DisloyalWellgroomedDuck-max-1mb.gif">
 <hr>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/c.henderson"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="c.henderson" /></a></p><br><br>
