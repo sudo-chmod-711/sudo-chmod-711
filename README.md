@@ -4,7 +4,7 @@
 <hr>
 <img align="right" alt="Coding" width="570" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-chmod-711&label=Profile%20views&color=0e75b6&style=flat" alt="sudo-chmod-711" /> </p>
-<p align="left"> <a href="https://twitter.com/sudo_chmod_711" target="blank"><img src="https://img.shields.io/twitter/follow/sudo_chmod_711?logo=twitter&style=for-the-badge" alt="sudo_chmod_711" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sudo_chmod_" target="blank"><img src="https://img.shields.io/twitter/follow/sudo_chmod_?logo=twitter&style=for-the-badge" alt="sudo_chmod_" /></a> </p>
 
 - 🌟 I’m currently learning <br> **Full stack web development**
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sudo_chmod_711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudo_chmod_711" height="30" width="40" /></a>
+<a href="https://twitter.com/sudo_chmod_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudo_chmod_711" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chamodhhenderson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamodhhenderson" height="30" width="40" /></a>
 <a href="https://fb.com/chamodhhenderson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamodhhenderson" height="30" width="40" /></a>
 <a href="https://instagram.com/sudo_chmod_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudo_chmod_711" height="30" width="40" /></a>
