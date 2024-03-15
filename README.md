@@ -4,7 +4,6 @@
 <hr>
 <img align="right" alt="Coding" width="570" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-chmod-711&label=Profile%20views&color=0e75b6&style=flat" alt="sudo-chmod-711" /> </p>
-<p align="left"> <a href="https://twitter.com/sudo_chmod_" target="blank"><img src="https://img.shields.io/twitter/follow/sudo_chmod_?logo=twitter&style=for-the-badge" alt="sudo_chmod_" /></a> </p>
 
 - 🌟 I’m currently learning <br> **Full stack web development**
 
