@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="570" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-chmod-711&label=Profile%20views&color=0e75b6&style=flat" alt="sudo-chmod-711" /> </p>
 
-- 🌟 I’m currently learning <br> **Full stack web development**
+- 🌟 I’m currently learning <br> **Machine Learning**
 
 - ✉️ How to reach me <br> **chamodhhenderson@gmail.com**
 
